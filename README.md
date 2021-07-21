@@ -2,9 +2,9 @@
 Listing data from Firebase RealTime Database for Android (Java)
 
 # Screenshots
-Fetching Data | Insert Data | Database Console
+Fetching Data | Database Console | Inserting Data
 ------------ | ------------- | -------------
-![alt text](https://github.com/9asso/TestTaskBBUKVA-Listing-data-from-Firebase-RealTime-Database/blob/main/screens/photo_2021-07-17_13-24-12.jpg) | ![alt text](https://github.com/9asso/TestTaskBBUKVA-Listing-data-from-Firebase-RealTime-Database/blob/main/screens/photo_2021-07-17_13-24-08.jpg) | ![alt text](https://github.com/9asso/TestTaskBBUKVA-Listing-data-from-Firebase-RealTime-Database/blob/main/screens/screenshot-console.firebase.google.com-2021.07.17-13_14_59.png)
+![GitHub Logo](https://github.com/9asso/TestTaskBBUKVA-Listing-data-from-Firebase-RealTime-Database/blob/main/screens/photo_2021-07-17_13-24-12.jpg) | ![GitHub Logo](https://github.com/9asso/TestTaskBBUKVA-Listing-data-from-Firebase-RealTime-Database/blob/main/screens/screenshot-console.firebase.google.com-2021.07.17-13_14_59.png) | ![GitHub Logo](https://github.com/9asso/TestTaskBBUKVA-Listing-data-from-Firebase-RealTime-Database/blob/main/screens/photo_2021-07-17_13-24-08.jpg)
 
 # Realtime Database JSON Code
 
