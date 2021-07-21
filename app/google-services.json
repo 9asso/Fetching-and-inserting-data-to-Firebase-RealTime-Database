@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192317881103",
+    "firebase_url": "https://testtaskbbukva-default-rtdb.firebaseio.com",
+    "project_id": "testtaskbbukva",
+    "storage_bucket": "testtaskbbukva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192317881103:android:be94c779027b186cdb9c7a",
+        "android_client_info": {
+          "package_name": "com.gtek.testtaskbbukva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192317881103-6hi17k57v0ap2jjs7mbehm5d51hj7jne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0vUkacihRm6AOLhulmc2fhymDBheRIPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192317881103-6hi17k57v0ap2jjs7mbehm5d51hj7jne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

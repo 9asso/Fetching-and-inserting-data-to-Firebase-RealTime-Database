@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestTaskBBUKVA</string>
+    <string name="app_name_full">Test Task bbukva.com</string>
+    <string name="activity_add_title">Add Item to the List</string>
+
+    <string name="activity_add_element_name">Name</string>
+    <string name="activity_add_element_description">Description</string>
+    <string name="activity_add_element_url">URL</string>
+    <string name="activity_add_element_btn">Save</string>
+</resources>
