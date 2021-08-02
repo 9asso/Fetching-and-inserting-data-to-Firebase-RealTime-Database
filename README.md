@@ -1,5 +1,7 @@
-# Listing data from Firebase RealTime Database
-Listing data from Firebase RealTime Database for Android (Java)
+# Fetching and inserting data to Firebase RealTime Database
+Fetching and inserting data to Firebase RealTime Database for Android (Java)
+
+![GitHub Logo](https://github.com/9asso/TestTaskBBUKVA-Listing-data-from-Firebase-RealTime-Database/blob/main/screens/cover.png)
 
 # Screenshots
 Fetching Data | Database Console | Inserting Data
